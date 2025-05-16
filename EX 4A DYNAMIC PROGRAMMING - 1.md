@@ -18,6 +18,7 @@ To find longest common subsequence using Dynamic Programming.
 ```
 /*
 Program to implement the longest common subsequence using Dynamic Programming
+*/
 
 def lcs(x,y):
     m=len(x)
@@ -36,14 +37,14 @@ str1=input()
 str2=input()
 print(f"{lcs(str1,str2)}")
 
+/*
 Developed by: Ann Blessy Philips
 Register Number: 212222040008
-
 */
 ```
 
 ## Output:
-
+![image](https://github.com/user-attachments/assets/b9da6014-1be1-4899-96bc-e285e0f94383)
 
 ## Result:
 Thus the program was executed successfully for computing the length of longest common subsequence.
